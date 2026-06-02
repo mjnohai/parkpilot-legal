@@ -115,8 +115,7 @@ changes are posted constitutes acceptance of the updated policy.
 
 Questions about this privacy policy or requests to delete your data:
 
-**Email:** privacy@getparkpilot.com  
-*(Replace with your actual contact address before publishing.)*
+**Email:** privacy@getparkpilot.com
 
 ---
 
