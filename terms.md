@@ -19,11 +19,11 @@ ParkPilot includes a 60-minute free trial. After the trial ends, continued acces
 
 **Pricing.** Subscription prices are displayed in the app at the time of purchase and may vary by region.
 
-**Auto-renewal.** Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Your Apple ID will be charged for renewal within 24 hours prior to the end of the current period.
+**Auto-renewal.** Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period. Your Apple ID will be charged for renewal within 24 hours prior to the end of the current period.
 
 **Cancellation.** Cancel at any time via iPhone Settings → Apple ID → Subscriptions. Cancellation takes effect at the end of the current billing period — you retain access until then.
 
-**Refunds.** All purchases are processed by Apple. Refund requests must be submitted to Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).
+**Refunds.** Apple processes all purchases. Refund requests must be submitted to Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 **Free trial.** Any unused portion of the free trial is forfeited upon purchasing a subscription.
 
@@ -64,4 +64,6 @@ Questions about these Terms? Email [support@getparkpilot.com](mailto:support@get
 
 ---
 
-*ParkPilot is an independent app and is not affiliated with The Walt Disney Company or any park operator.*
+*ParkPilot is an independent app and is not affiliated with, endorsed by,
+or sponsored by The Walt Disney Company, Walt Disney Parks and Resorts, or
+any of their subsidiaries.*

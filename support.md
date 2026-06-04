@@ -18,8 +18,8 @@ The top pick at any moment is the one most likely to give you the best
 experience given current conditions.
 
 **How long does the free trial last?**  
-The free trial begins on your first recommendation request and lasts 60 
-minutes. After that, a ParkPilot Pro subscription is required to continue.
+The free trial begins on your first recommendation request and lasts 2 hours. 
+After that, a ParkPilot Pro subscription is required to continue.
 
 **I subscribed but the app still shows the paywall.**  
 Tap "Already a subscriber? Restore" on the paywall screen. If the issue 
@@ -45,5 +45,6 @@ we'll get back to you.
 
 ---
 
-*ParkPilot is an independent app and is not affiliated with The Walt Disney 
-Company or any park operator.*
+*ParkPilot is an independent app and is not affiliated with, endorsed by,
+or sponsored by The Walt Disney Company, Walt Disney Parks and Resorts, or
+any of their subsidiaries.*
