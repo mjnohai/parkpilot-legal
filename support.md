@@ -60,7 +60,7 @@ will show a banner suggesting you switch. You can tap Switch to start a new plan
 continue your existing plan.
 
 **My question isn’t answered here.**  
-Email us at **[support@getparkpilot.com,](mailto:support@getparkpilot.com)** and we’ll get back to you.
+Email us at **[support@getparkpilot.com](mailto:support@getparkpilot.com)** and we’ll get back to you.
 
 ---
 
