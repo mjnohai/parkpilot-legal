@@ -42,16 +42,25 @@ Make sure Apple Maps or Google Maps is installed. Tap **“Open in Maps”** and
 **A wait time or recommendation looked wrong. How do I report it?**  
 ParkPilot uses live park data from external sources along with our own recommendation logic. Because park conditions
 change quickly, occasional delays or discrepancies can happen. If something looks off,
-email **[support@getparkpilot.com](mailto:support@getparkpilot.com)** with the park, approximate time, the recommendation
-you saw, and what seemed incorrect. If possible, include a screenshot. We review reports to determine whether the issue
-came from a source-data delay, attraction status change, or ParkPilot’s scoring logic.
+email **[support@getparkpilot.com](mailto:support@getparkpilot.com)** with the park, approximate time, the
+recommendation you saw, and what seemed incorrect. If possible, include a screenshot. We review reports to determine
+whether the issue came from a source-data delay, attraction status change, or ParkPilot’s scoring logic.
 
 **How do I request deletion of my data?**  
 For privacy or deletion requests, email **[privacy@getparkpilot.com](mailto:privacy@getparkpilot.com)**. We may ask for
 your device identifier so we can locate your records.
 
+**What is "Update plan" and how is it different from "New plan"?** "Update plan" lets you change your party type,
+must-dos, pace, or leave time mid-visit without losing your session history (completed rides, dismissed attractions). 
+"New plan" starts completely fresh — your previous session history is cleared and a new session begins.
+
+**The app suggested I switch to a different park. What does that mean?** ParkPilot uses your device's location to
+calculate walk times to attractions. If it detects you are near a different park than the one in your current plan, it
+will show a banner suggesting you switch. You can tap Switch to start a new plan for that park or dismiss the banner to
+continue your existing plan.
+
 **My question isn’t answered here.**  
-Email us at **[support@getparkpilot.com](mailto:support@getparkpilot.com)** and we’ll get back to you.
+Email us at **[support@getparkpilot.com,](mailto:support@getparkpilot.com)** and we’ll get back to you.
 
 ---
 

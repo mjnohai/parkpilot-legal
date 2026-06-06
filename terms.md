@@ -53,7 +53,8 @@ ParkPilot relies in part on live and historical data, including data from extern
 incomplete, unavailable, or inaccurate.
 
 Features, recommendation quality, attraction availability, and wait-time information may change without notice.
-ParkPilot may also be interrupted, unavailable, or modified at any time.
+ParkPilot may be interrupted, unavailable, or modified at any time. We reserve the right to change, suspend, or
+discontinue any part of ParkPilot at any time, with or without notice.
 
 ## Disclaimer
 
@@ -82,8 +83,8 @@ abused the service, or attempted to circumvent subscription or access controls.
 
 ## Governing Law
 
-These Terms are governed by the laws of the State of **[YOUR STATE]**, without regard to its conflict of laws
-principles.
+These Terms are governed by the laws of the State of New York, without regard to its conflict of law provisions. Any
+disputes arising from these Terms or your use of ParkPilot will be resolved in the courts of New York.
 
 ## Changes to These Terms
 

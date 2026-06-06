@@ -34,6 +34,9 @@ ParkPilot is an independent app and is not affiliated with The Walt Disney Compa
   is then discarded.
 - **Device identifier** — a random UUID generated on your device and stored in your iOS Keychain. This identifier helps
   restore ParkPilot Pro access on a new device. It is not linked to your Apple ID, name, or email address.
+- The app also stores small operational counters on your device (such as how many times you have used the app and
+  whether you have been prompted to leave a review). These are stored locally in iOS Keychain, are never transmitted to
+  our servers, and contain no personally identifiable information.
 
 ### Information Received from Apple
 
