@@ -13,7 +13,7 @@ By downloading, accessing, or using ParkPilot, you agree to these Terms of Use. 
 
 ## Eligibility
 
-ParkPilot is intended for users aged 13 and older.
+ParkPilot is not directed to children under 13. By using ParkPilot, you represent that you are at least 13 years of age.
 
 ## Subscription
 

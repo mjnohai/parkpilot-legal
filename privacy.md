@@ -106,9 +106,9 @@ future device.
 
 ---
 
-## Children's Privacy
+## Children’s Privacy
 
-ParkPilot is intended for users aged 13 and older.
+ParkPilot is not directed to children under 13.
 
 We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided
 information through the app, please contact us and we will promptly delete it.
