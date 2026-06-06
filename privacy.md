@@ -30,8 +30,9 @@ ParkPilot is an independent app and is not affiliated with The Walt Disney Compa
 ### Information Collected Automatically
 
 - **Approximate location** — your device location is sent with recommendation requests so we can score attractions by
-  walking distance. We do not store your location history. Location is used only to generate current recommendations and
-  is then discarded.
+  walking distance. We do not store your location history. Location is used only for operational purposes during your
+  session — to calculate walk times to attractions and to detect whether you have moved to a different park — and is
+  then discarded. We do not store your location history.
 - **Device identifier** — a random UUID generated on your device and stored in your iOS Keychain. This identifier helps
   restore ParkPilot Pro access on a new device. It is not linked to your Apple ID, name, or email address.
 - The app also stores small operational counters on your device (such as how many times you have used the app and
