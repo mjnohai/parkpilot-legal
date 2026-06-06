@@ -5,31 +5,36 @@ title: Accessibility
 
 # ParkPilot Accessibility
 
-ParkPilot is designed to work with the accessibility features built into iOS.
+ParkPilot is designed to work with the accessibility features built into iOS. Accessibility is an ongoing effort, and we
+continue improving the app over time.
 
 ## Supported Features
 
 **VoiceOver**  
-All interactive controls have descriptive labels. Wait time status (live vs. estimated), attraction recommendations, and action buttons are fully announced. Cards in the pending-dismissal state are labeled accordingly, so VoiceOver users are not prompted to interact with them.
+We aim to provide descriptive accessibility labels for interactive controls. Wait time status, attraction
+recommendations, and primary action buttons are designed to be announced clearly for VoiceOver users. Cards in a
+pending-dismissal state are labeled to reduce confusion.
 
 **Dynamic Type**  
-All text in the app scales with your iOS text size setting. No font sizes are hardcoded. The interface adapts at all scale levels, including the extra-large accessibility sizes.
+ParkPilot is designed to support iOS text size settings, including larger accessibility sizes, so content remains
+readable across supported screens.
 
 **Reduce Motion**  
-The animated highlight on the recommendation card respects the Reduce Motion setting in iOS Accessibility preferences. When Reduce Motion is on, the animation is replaced with a static display.
+Animated interface effects are designed to respect the **Reduce Motion** setting in iOS Accessibility preferences. When
+Reduce Motion is enabled, motion-heavy effects are reduced or replaced where practical.
 
 **Contrast**  
-All informational text meets WCAG 2.2 AA contrast requirements. Color is never the sole means of conveying status — every colored indicator is paired with a text label.
+We aim to maintain strong text contrast and avoid using color alone to communicate important status information. Where
+possible, colored indicators are paired with text labels.
 
 **Touch Targets**  
-All interactive elements meet the 48 × 48 pt minimum touch target size.
+Interactive elements are designed with touch accessibility in mind and aim to provide comfortable tap target sizes.
 
-## Contact
+## Feedback
 
-If you experience an accessibility barrier or have a suggestion, please email us at [support@getparkpilot.com](mailto:support@getparkpilot.com). We aim to respond within 1–2 business days.
+If you encounter an accessibility barrier or have suggestions for improvement, please email us at [support@getparkpilot.com](mailto:support@getparkpilot.com). We typically respond within **1–2 business days**.
 
 ---
 
-*ParkPilot is an independent app and is not affiliated with, endorsed by,
-or sponsored by The Walt Disney Company, Walt Disney Parks and Resorts, or
-any of their subsidiaries.*
+*ParkPilot is an independent app and is not affiliated with, endorsed by, or sponsored by The Walt Disney Company, Walt
+Disney Parks and Resorts, or any of their subsidiaries.*
