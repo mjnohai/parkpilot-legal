@@ -37,7 +37,7 @@ ParkPilot is an independent app and is not affiliated with The Walt Disney Compa
   restore ParkPilot Pro access on a new device. It is not linked to your Apple ID, name, or email address.
 - **Appearance preference** (Light / Dark / System) — stored on-device only via iOS standard
   preferences; never transmitted
-- Local counters (app usage, review prompts) stored on-device only, never transmitted
+- **Local counters** (app usage, review prompts) stored on-device only, never transmitted
 
 ### Information Received from Apple
 
