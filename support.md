@@ -54,6 +54,10 @@ your device identifier so we can locate your records.
 must-dos, pace, or leave time mid-visit without losing your session history (completed rides, dismissed attractions). 
 "New plan" starts completely fresh — your previous session history is cleared and a new session begins.
 
+**How do I change the app appearance?**
+Go to **Settings → Appearance** and choose Light, Dark, or System. The preference is saved
+and persists across relaunches.
+
 **The app suggested I switch to a different park. What does that mean?** ParkPilot uses your device's location to
 calculate walk times to attractions. If it detects you are near a different park than the one in your current plan, it
 will show a banner suggesting you switch. You can tap Switch to start a new plan for that park or dismiss the banner to

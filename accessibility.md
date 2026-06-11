@@ -23,12 +23,18 @@ readable across supported screens.
 Animated interface effects are designed to respect the **Reduce Motion** setting in iOS Accessibility preferences. When
 Reduce Motion is enabled, motion-heavy effects are reduced or replaced where practical.
 
-**Contrast**  
-We aim to maintain strong text contrast and avoid using color alone to communicate important status information. Where
-possible, colored indicators are paired with text labels.
+**Contrast**
+All informational text meets WCAG 2.2 Level AA contrast ratios across both Light and Dark
+modes (4.5:1 for normal text, 3:1 for large text). Colored indicators are always paired with
+text labels so status is never conveyed by color alone.
 
-**Touch Targets**  
-Interactive elements are designed with touch accessibility in mind and aim to provide comfortable tap target sizes.
+**Appearance**
+A Light, Dark, or System-matching appearance can be selected in Settings → Appearance.
+The preference persists across sessions.
+
+**Touch Targets**
+All interactive elements meet a minimum tap target size of 48 × 48 dp in accordance with
+WCAG 2.5.5 (Target Size).
 
 ## Feedback
 
