@@ -1,6 +1,6 @@
 # ParkPilot
 
-Your AI-powered Disney park guide — real-time recommendations so you spend less time waiting and more time riding.
+Your AI-powered Theme Park guide — real-time recommendations so you spend less time waiting and more time riding.
 
 ---
 
