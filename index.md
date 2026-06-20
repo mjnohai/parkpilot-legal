@@ -13,4 +13,4 @@ Your AI-powered Theme Park guide — real-time recommendations so you spend less
 
 ---
 
-&copy; 2026 ParkPilot. All rights reserved.
+&copy; 2026 Init One LLC. All rights reserved.
